@@ -1,0 +1,30 @@
+EventId,EventTemplate,Occurrences
+54f007d7,C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_<*>_none_681aa442f6fed7f0\cbscore.dll,2
+1de9457d,Initializing online with Windows opt-in: False,2
+5dcd7722,Cleaning up report files older than 10 days.,2
+c8d1544d,Requesting upload of all unsent reports.,2
+4a11e901,"Failed to start upload with file pattern: C:\Windows\servicing\sqm\*_std.sqm, flags: 0x2 [HRESULT = 0x80004005 - E_FAIL]",2
+c3b6eb68,Failed to start standard sample upload. [HRESULT = 0x80004005 - E_FAIL],2
+4360c027,"Queued 0 file(s) for upload with pattern: C:\Windows\servicing\sqm\*_all.sqm, flags: 0x6",2
+de9c1624,Warning: Failed to upload all unsent reports. [HRESULT = 0x80004005 - E_FAIL],2
+33a1836a,Checking to ensure startup processing was not required.,2
+e1a3d9c3,"Success, startup processing not required as expected.",2
+cf1b9d89,<*> initialized by client <*>,609
+046ec491,Unrecognized packageExtended attribute.,280
+d141e2fa,<*> ApplicableState: <*> <*>,508
+80f8e8dd,<*> ApplicableState: <*> CurrentState:0,50
+c4ca4238,1,1
+161f25f9,Starts,1
+94d705ec,Begin CSI Store,1
+31d77dd3,"Completed, disposition: 0X1",1
+cfcd2084,0,1
+76ef0e6f,<*> into registry key <*> from path <*>,8
+7233b8e3,read-only,1
+0e1cee2f,{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SOFTWARE,1
+432f1f7f,{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SYSTEM,1
+b7ab5ee0,{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SECURITY,1
+a064fef2,{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SAM,1
+2cd93c79,{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/COMPONENTS,1
+ed9f2cb7,{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/DEFAULT,1
+4a25941d,{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Users/default/ntuser.dat,1
+af998006,{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat,1

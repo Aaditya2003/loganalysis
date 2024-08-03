@@ -1,0 +1,46 @@
+EventId,EventTemplate,Occurrences
+bbb51b95,Receiving block <*> src: /<*> dest: /<*>,1723232
+3d91fa85,BLOCK* NameSystem.allocateBlock: <*> <*>,575061
+d38aa58d,PacketResponder <*> for block <*> <*>,1706728
+46003790,Received block <*> of size <*> from /<*>,1706514
+5d5de21c,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>,1719741
+44614d71,Received block <*> src: /<*> dest: /<*> of size <*>,7097
+9c784e29,<*>:Transmitted block <*> to /<*>,6937
+75627efd,"<*> Starting thread to transfer block <*> to <*>, <*>",165
+54e5f6b4,BLOCK* ask <*> to replicate <*> to datanode(s) <*> <*>,165
+4dec0816,<*> Served block <*> to /<*>,428726
+728076ac,BLOCK* ask <*> to replicate <*> to datanode(s) <*>,6837
+40651754,<*> Starting thread to transfer block <*> to <*>,6837
+32777b38,Verification succeeded for <*>,120036
+ace40671,writeBlock <*> received exception <*>,67
+27126944,PacketResponder <*> <*> Exception <*>,29
+bcc910df,writeBlock <*> received exception java.io.IOException: Could not read from stream,3226
+dba996ef,Deleting block <*> file <*>,1402047
+0567184d,Receiving empty packet for block <*>,1464
+69bca6e5,Exception in receiveBlock for block <*> java.io.IOException: Connection reset by peer,75
+f247cd7a,<*> <*> <*> <*> java.io.IOException: Connection reset by peer,86
+c294d20f,BLOCK* NameSystem.addStoredBlock: Redundant addStoredBlock request received for <*> on <*> size <*>,975
+6f845009,<*> <*> <*> <*> java.net.SocketTimeoutException: <*> millis timeout while waiting for channel to be ready for <*> ch : java.nio.channels.SocketChannel[connected local=/<*> remote=/<*>],37
+1b27fab0,<*> <*> <*> <*> java.io.InterruptedIOException: Interruped while waiting for IO on channel java.nio.channels.SocketChannel[connected local=/<*> remote=/<*>]. <*> millis timeout left.,40
+f266840a,Exception in receiveBlock for block <*> <*>,56
+15b484af,Changing block file offset of block <*> from 0 to <*> meta file offset to <*>,65
+9621139e,<*>:Exception writing block <*> to mirror <*>,34
+d62e5638,Exception in receiveBlock for block <*> java.io.InterruptedIOException: Interruped while waiting for IO on channel java.nio.channels.SocketChannel[connected local=/<*> remote=/<*>]. <*> millis timeout left.,16
+7128ce84,<*> <*> <*> <*> java.io.IOException: Broken pipe,11
+4610d0f1,"writeBlock <*> received exception java.io.IOException: Block <*> is valid, and cannot be written to.",9
+1a718242,<*>:Failed to transfer <*> to <*> got java.io.IOException: Connection reset by peer,9
+d63ef163,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>,1396174
+2e68ccc3,Unexpected error trying to delete block <*>. BlockInfo not found in volumeMap.,5545
+8f2bc724,BLOCK* NameSystem.addStoredBlock: addStoredBlock request received for <*> on <*> size <*> But it does not belong to any file.,1288
+a333d363,<*>:Got exception while serving <*> to /<*>:,356207
+194a7329,Exception in receiveBlock for block <*> java.net.SocketTimeoutException: 490000 millis timeout while waiting for channel to be ready for write. ch : java.nio.channels.SocketChannel[connected local=/<*> remote=/<*>],4
+06d16156,Reopen Block <*>,5
+13eb7010,BLOCK* Removing block <*> from neededReplications as it does not belong to any file.,4
+f79898ae,PendingReplicationMonitor timed out block <*>,47
+468e53f3,writeBlock <*> received exception java.io.IOException: Interrupted receiveBlock,11
+625a2a34,PacketResponder <*> 1 Exception java.io.InterruptedIOException: Interruped while waiting for IO on channel java.nio.channels.SocketChannel[closed]. <*> millis timeout left.,5
+b65fc512,writeBlock <*> received exception java.net.NoRouteToHostException: No route to host,1
+fcd37a6d,Adding an already existing block <*>,10
+559305d8,Exception in receiveBlock for block <*> java.io.IOException: Broken pipe,3
+fcf2c482,PacketResponder <*> 1 Exception java.io.IOException: The stream is closed,2
+94126c9d,Exception in receiveBlock for block <*> java.net.SocketTimeoutException: 485000 millis timeout while waiting for channel to be ready for write. ch : java.nio.channels.SocketChannel[connected local=/<*> remote=/<*>],1

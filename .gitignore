@@ -1,0 +1,5 @@
+loglizer/data/*
+loglizer/demo/data_instances.csv
+logparser/logs/*
+jj/
+privateGPT/models/ggml-gpt4all-j-v1.3-groovy.bin
